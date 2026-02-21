@@ -1,3 +1,3 @@
 # Machine-Learning-for-Physical-Sciences
 
-To open the notebook directly on colab: replaces "github.com" with "githubtocolab.com"
+To open the notebook directly on colab: simply replace "github.com" with "githubtocolab.com"
